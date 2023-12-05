@@ -1,4 +1,16 @@
-### Hi there 👋
+
+![Static Badge][student-status]
+
+![Static Badge][field]
+
+
+[student-status]: <https://img.shields.io/badge/student-undergrad-palegreen?style=for-the-badge>
+<!--
+![Static Badge][year]
+[student-status]: <https://img.shields.io/badge/student-independent-blue?style=for-the-badge>
+[year]: <https://img.shields.io/badge/year-undergrad-palegreen?style=for-the-badge>
+-->
+[field]: <https://img.shields.io/badge/field-compsci-lightblue?style=for-the-badge>
 
 <!--
 **4wsm/4wsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
